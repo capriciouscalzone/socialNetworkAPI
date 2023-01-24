@@ -1,0 +1,26 @@
+{
+    "name": "hw18-social-network-api",
+    "version": "1.0.0",
+    "description": "## Table of Contents",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/capriciouscalzone/socialNetworkAPI.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/capriciouscalzone/socialNetworkAPI/issues"
+    },
+    "homepage": "https://github.com/capriciouscalzone/socialNetworkAPI#readme",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mongoose": "^6.2.9"
+    }
+  }
+  
